@@ -2,6 +2,7 @@ package org.prashant.base;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.lang3.ObjectUtils;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -50,15 +51,15 @@ public class TestBase {
                 WebDriverManager.chromedriver().setup();
                 ChromeOptions chromeOptions = new ChromeOptions();
                 driver = new ChromeDriver(chromeOptions);
-            } else if (config.getProperty("IE").equals("IE")) {
+            } else if (config.getProperty("browser").equals("ie")) {
                 WebDriverManager.iedriver().setup();
                 InternetExplorerOptions internetExplorerOptions = new InternetExplorerOptions();
                 driver = new InternetExplorerDriver(internetExplorerOptions);
-            } else if (config.getProperty("edge").equals("edge")) {
+            } else if (config.getProperty("browser").equals("edge")) {
                 WebDriverManager.edgedriver().setup();
                 EdgeOptions edgeOptions = new EdgeOptions();
                 driver = new EdgeDriver(edgeOptions);
-            } else if (config.getProperty("safari").equals("safari")) {
+            } else if (config.getProperty("browser").equals("safari")) {
                 WebDriverManager.safaridriver().setup();
                 SafariOptions safariOptions = new SafariOptions();
                 driver = new SafariDriver(safariOptions);

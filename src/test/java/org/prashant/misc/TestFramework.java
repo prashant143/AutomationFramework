@@ -10,15 +10,14 @@ import org.openqa.selenium.safari.SafariDriver;
 import org.openqa.selenium.safari.SafariOptions;
 import org.testng.annotations.Test;
 
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.sql.SQLOutput;
+import java.util.Properties;
 
 public class TestFramework {
-    WebDriver driver;
-    @Test
-    public void testChromeSetup() {
-
-        driver.findElement(By.cssSelector("#btnLogin")).click();
-        //driver.close();
+    public static void main(String[] args) throws IOException {
 
     }
 }

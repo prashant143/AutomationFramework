@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd43d4e8-cbe9-40f2-966d-851503e98438" name="Changes" comment="Created a Project">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/prashant/base/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/prashant/misc/TestFramework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/prashant/testcases/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/logs/application.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/logs/selenium.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/properties/OR.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/properties/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    <list default="true" id="cd43d4e8-cbe9-40f2-966d-851503e98438" name="Changes" comment="Data Driven Framework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/prashant/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/prashant/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/prashant/misc/TestFramework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/prashant/misc/TestFramework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/prashant/testcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/prashant/testcases/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/properties/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/properties/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,17 +43,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/src/test/resources/executables",
+    "last_opened_file_path": "/Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/src/main/java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/test/resources/executables" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/properties" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG./Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/testng.xml">
-    <configuration name="TestFramework" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFramework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.prashant.misc.TestFramework" />
       <module name="DataDrivenFramework" />
       <extension name="coverage">
         <pattern>
@@ -69,11 +66,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.prashant.misc" />
-      <option name="MAIN_CLASS_NAME" value="org.prashant.misc.TestFramework" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,7 +88,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFramework.testChromeSetup (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFramework.testChromeSetup (3)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DataDrivenFramework" />
       <extension name="coverage">
         <pattern>
@@ -145,10 +137,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/testng.xml" />
+        <item itemvalue="Application.TestFramework" />
         <item itemvalue="TestNG.TestFramework.testChromeSetup" />
-        <item itemvalue="TestNG.TestFramework" />
-        <item itemvalue="TestNG.TestFramework.testChromeSetup (2)" />
         <item itemvalue="TestNG.TestFramework.testChromeSetup (1)" />
+        <item itemvalue="TestNG.TestFramework.testChromeSetup (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657685179474</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Data Driven Framework">
+      <created>1658286422967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658286422967</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -195,17 +194,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Created a Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a Project" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/prashant/base/TestBase.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Data Driven Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Driven Framework" />
   </component>
 </project>

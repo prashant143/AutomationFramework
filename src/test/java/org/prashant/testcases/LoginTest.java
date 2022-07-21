@@ -8,6 +8,8 @@ public class LoginTest extends TestBase {
 
     @Test
     public void loginTest(){
-        driver.findElement(By.xpath(""));
+        driver.findElement(By.cssSelector("#txtUsername")).sendKeys("Admin");
+        driver.findElement(By.cssSelector("#txtPassword")).sendKeys("admin123");
+        driver.findElement(By.cssSelector("#btnLogin")).click();
     }
 }
