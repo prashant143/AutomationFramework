@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd43d4e8-cbe9-40f2-966d-851503e98438" name="Changes" comment="Data Driven Framework">
+      <change afterPath="$PROJECT_DIR$/src/test/logs/resources/application.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/properties/log4j2.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/prashant/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/prashant/base/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/prashant/misc/TestFramework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/prashant/misc/TestFramework.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/prashant/testcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/prashant/testcases/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/properties/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/properties/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +56,7 @@
       <recent name="$PROJECT_DIR$/src/test/resources/executables" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/test/resources/properties" />
     </key>
   </component>
@@ -71,24 +75,6 @@
       </method>
     </configuration>
     <configuration name="TestFramework.testChromeSetup (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DataDrivenFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.prashant.misc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.prashant.misc" />
-      <option name="MAIN_CLASS_NAME" value="org.prashant.misc.TestFramework" />
-      <option name="METHOD_NAME" value="testChromeSetup" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFramework.testChromeSetup (3)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DataDrivenFramework" />
       <extension name="coverage">
         <pattern>
@@ -134,13 +120,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataDrivenFramework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/testng.xml" />
         <item itemvalue="Application.TestFramework" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.TestFramework.testChromeSetup" />
         <item itemvalue="TestNG.TestFramework.testChromeSetup (1)" />
-        <item itemvalue="TestNG.TestFramework.testChromeSetup (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -167,12 +163,20 @@
       <option name="project" value="LOCAL" />
       <updated>1658286422967</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Data Driven Framework">
+      <created>1658368742949</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658368742949</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="dependencySupport" implementationName="java:com.google.protobuf:protobuf-java" />
     <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

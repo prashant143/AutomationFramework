@@ -1,0 +1,27 @@
+<!-- scan attribute will scan logback.xml every minute for changes
+ We can also set the parameter like scanPeriod="30 seconds" which will
+ scan the file every 30 seconds for changes-->
+<configuration scan="true">
+    <contextName>Data Driven Framework</contextName>
+    <appender name="DataDrivenFrameworkFile" class="ch.qos.logback.core.FileAppender">
+        <file>${user.dir}/src/test/logs/resources/application.log</file>
+
+        <encoder>
+            <pattern>%contextName %date %level [%thread] %logger{10} [%file:%line] %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="DataDrivenFrameworkConsole" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
+    <logger name="logs.resources.application" additivity="false">
+        <appender-ref ref="DataDrivenFrameworkFile" />
+    </logger>
+
+    <root level="INFO">
+        <appender-ref ref="DataDrivenFrameworkFile" />
+        <appender-ref ref="DataDrivenFrameworkConsole" />
+    </root>
+</configuration>

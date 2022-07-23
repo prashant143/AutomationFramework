@@ -1,0 +1,625 @@
+Data Driven Framework 2022-07-23 15:30:04,197 DEBUG [main] o.t.TestNG [Logger.java:82] suiteXmlPath: "/Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/testng.xml"
+Data Driven Framework 2022-07-23 15:30:04,479 INFO [main] o.t.i.Utils [Logger.java:112] [Warning] The regular expression "testChromeSetup" didn't match any method in class org.prashant.misc.TestFramework
+Data Driven Framework 2022-07-23 15:30:04,696 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 16 ms.
+Data Driven Framework 2022-07-23 15:30:04,715 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -1899196783
+Data Driven Framework 2022-07-23 15:30:04,716 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ================ SORTING
+Data Driven Framework 2022-07-23 15:30:04,721 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] =============== DONE SORTING
+Data Driven Framework 2022-07-23 15:30:04,722 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ====== SORTED NODES
+Data Driven Framework 2022-07-23 15:30:04,722 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ====== END SORTED NODES
+Data Driven Framework 2022-07-23 15:30:04,723 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+Data Driven Framework 2022-07-23 15:30:04,728 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,728 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:null] 344089322
+Data Driven Framework 2022-07-23 15:30:04,729 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ================ SORTING
+Data Driven Framework 2022-07-23 15:30:04,729 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] =============== DONE SORTING
+Data Driven Framework 2022-07-23 15:30:04,730 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ====== SORTED NODES
+Data Driven Framework 2022-07-23 15:30:04,730 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ====== END SORTED NODES
+Data Driven Framework 2022-07-23 15:30:04,730 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+Data Driven Framework 2022-07-23 15:30:04,733 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,735 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,739 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,740 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,742 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,742 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,749 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,750 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,752 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,753 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,760 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,776 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,781 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,782 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,783 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,784 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,788 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,789 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:org.prashant.testcases.LoginTest@6e509ffa] -1189747831
+Data Driven Framework 2022-07-23 15:30:04,789 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ================ SORTING
+Data Driven Framework 2022-07-23 15:30:04,790 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] =============== DONE SORTING
+Data Driven Framework 2022-07-23 15:30:04,790 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ====== SORTED NODES
+Data Driven Framework 2022-07-23 15:30:04,790 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ====== END SORTED NODES
+Data Driven Framework 2022-07-23 15:30:04,790 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+Data Driven Framework 2022-07-23 15:30:04,791 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,791 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,792 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,793 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ADDING NODE LoginTest.loginTest()[pri:0, instance:org.prashant.testcases.LoginTest@6e509ffa] -626451803
+Data Driven Framework 2022-07-23 15:30:04,794 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ================ SORTING
+Data Driven Framework 2022-07-23 15:30:04,794 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] =============== DONE SORTING
+Data Driven Framework 2022-07-23 15:30:04,794 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ====== SORTED NODES
+Data Driven Framework 2022-07-23 15:30:04,794 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ====== END SORTED NODES
+Data Driven Framework 2022-07-23 15:30:04,795 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+Data Driven Framework 2022-07-23 15:30:04,800 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,801 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,803 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 15:30:04,804 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:org.prashant.testcases.LoginTest@6e509ffa] -367355312
+Data Driven Framework 2022-07-23 15:30:04,804 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ================ SORTING
+Data Driven Framework 2022-07-23 15:30:04,805 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] =============== DONE SORTING
+Data Driven Framework 2022-07-23 15:30:04,806 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ====== SORTED NODES
+Data Driven Framework 2022-07-23 15:30:04,806 DEBUG [main] o.t.i.Graph [Logger.java:82] [Graph] ====== END SORTED NODES
+Data Driven Framework 2022-07-23 15:30:04,807 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+Data Driven Framework 2022-07-23 15:30:04,829 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Running:
+  /Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/testng.xml
+
+Data Driven Framework 2022-07-23 15:30:04,889 INFO [main] o.p.b.TestBase [TestBase.java:42] Config File Loaded!
+Data Driven Framework 2022-07-23 15:30:05,731 WARN [main] i.g.b.w.m.SafariDriverManager [SafariDriverManager.java:51] There is no need to manage the driver for the Safari browser (i.e., safaridriver) since it is built-in in Mac OS
+Data Driven Framework 2022-07-23 15:30:06,015 DEBUG [main] i.n.u.i.l.InternalLoggerFactory [InternalLoggerFactory.java:63] Using SLF4J as the default logging framework
+Data Driven Framework 2022-07-23 15:30:06,027 DEBUG [main] i.n.u.ResourceLeakDetector [ResourceLeakDetector.java:129] -Dio.netty.leakDetection.level: simple
+Data Driven Framework 2022-07-23 15:30:06,028 DEBUG [main] i.n.u.ResourceLeakDetector [ResourceLeakDetector.java:130] -Dio.netty.leakDetection.targetRecords: 4
+Data Driven Framework 2022-07-23 15:30:06,040 DEBUG [main] i.n.u.ResourceLeakDetectorFactory [ResourceLeakDetectorFactory.java:196] Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5629510
+Data Driven Framework 2022-07-23 15:30:06,094 DEBUG [main] i.n.u.i.PlatformDependent0 [PlatformDependent0.java:495] -Dio.netty.noUnsafe: false
+Data Driven Framework 2022-07-23 15:30:06,094 DEBUG [main] i.n.u.i.PlatformDependent0 [PlatformDependent0.java:998] Java version: 15
+Data Driven Framework 2022-07-23 15:30:06,097 DEBUG [main] i.n.u.i.PlatformDependent0 [PlatformDependent0.java:136] sun.misc.Unsafe.theUnsafe: available
+Data Driven Framework 2022-07-23 15:30:06,100 DEBUG [main] i.n.u.i.PlatformDependent0 [PlatformDependent0.java:160] sun.misc.Unsafe.copyMemory: available
+Data Driven Framework 2022-07-23 15:30:06,102 DEBUG [main] i.n.u.i.PlatformDependent0 [PlatformDependent0.java:192] sun.misc.Unsafe.storeFence: available
+Data Driven Framework 2022-07-23 15:30:06,103 DEBUG [main] i.n.u.i.PlatformDependent0 [PlatformDependent0.java:235] java.nio.Buffer.address: available
+Data Driven Framework 2022-07-23 15:30:06,104 DEBUG [main] i.n.u.i.PlatformDependent0 [PlatformDependent0.java:319] direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+Data Driven Framework 2022-07-23 15:30:06,105 DEBUG [main] i.n.u.i.PlatformDependent0 [PlatformDependent0.java:384] java.nio.Bits.unaligned: available, true
+Data Driven Framework 2022-07-23 15:30:06,108 DEBUG [main] i.n.u.i.PlatformDependent0 [PlatformDependent0.java:451] jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @305a0c5f
+Data Driven Framework 2022-07-23 15:30:06,110 DEBUG [main] i.n.u.i.PlatformDependent0 [PlatformDependent0.java:481] java.nio.DirectByteBuffer.<init>(long, int): unavailable
+Data Driven Framework 2022-07-23 15:30:06,111 DEBUG [main] i.n.u.i.PlatformDependent [PlatformDependent.java:1120] sun.misc.Unsafe: available
+Data Driven Framework 2022-07-23 15:30:06,126 DEBUG [main] i.n.u.i.PlatformDependent [PlatformDependent.java:1231] maxDirectMemory: 2147483648 bytes (maybe)
+Data Driven Framework 2022-07-23 15:30:06,127 DEBUG [main] i.n.u.i.PlatformDependent [PlatformDependent.java:1250] -Dio.netty.tmpdir: /var/folders/6d/s9tyf1vd1rb1_vb3zj859rq40000gn/T (java.io.tmpdir)
+Data Driven Framework 2022-07-23 15:30:06,127 DEBUG [main] i.n.u.i.PlatformDependent [PlatformDependent.java:1329] -Dio.netty.bitMode: 64 (sun.arch.data.model)
+Data Driven Framework 2022-07-23 15:30:06,128 DEBUG [main] i.n.u.i.PlatformDependent [PlatformDependent.java:1088] Platform: MacOS
+Data Driven Framework 2022-07-23 15:30:06,129 DEBUG [main] i.n.u.i.PlatformDependent [PlatformDependent.java:178] -Dio.netty.maxDirectMemory: -1 bytes
+Data Driven Framework 2022-07-23 15:30:06,129 DEBUG [main] i.n.u.i.PlatformDependent [PlatformDependent.java:185] -Dio.netty.uninitializedArrayAllocationThreshold: -1
+Data Driven Framework 2022-07-23 15:30:06,130 DEBUG [main] i.n.u.i.CleanerJava9 [CleanerJava9.java:71] java.nio.ByteBuffer.cleaner(): available
+Data Driven Framework 2022-07-23 15:30:06,132 DEBUG [main] i.n.u.i.PlatformDependent [PlatformDependent.java:205] -Dio.netty.noPreferDirect: false
+Data Driven Framework 2022-07-23 15:30:06,147 DEBUG [main] i.n.u.i.PlatformDependent [PlatformDependent.java:971] org.jctools-core.MpscChunkedArrayQueue: available
+Data Driven Framework 2022-07-23 15:30:06,209 DEBUG [main] i.n.u.i.InternalThreadLocalMap [InternalThreadLocalMap.java:86] -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+Data Driven Framework 2022-07-23 15:30:06,210 DEBUG [main] i.n.u.i.InternalThreadLocalMap [InternalThreadLocalMap.java:89] -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Data Driven Framework 2022-07-23 15:30:06,350 DEBUG [main] i.n.h.s.JdkSslContext [JdkSslContext.java:83] Default protocols (JDK): [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1] 
+Data Driven Framework 2022-07-23 15:30:06,350 DEBUG [main] i.n.h.s.JdkSslContext [JdkSslContext.java:84] Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+Data Driven Framework 2022-07-23 15:30:06,429 DEBUG [main] i.n.c.MultithreadEventLoopGroup [MultithreadEventLoopGroup.java:44] -Dio.netty.eventLoopThreads: 8
+Data Driven Framework 2022-07-23 15:30:06,451 DEBUG [main] i.n.c.n.NioEventLoop [NioEventLoop.java:109] -Dio.netty.noKeySetOptimization: false
+Data Driven Framework 2022-07-23 15:30:06,451 DEBUG [main] i.n.c.n.NioEventLoop [NioEventLoop.java:110] -Dio.netty.selectorAutoRebuildThreshold: 512
+Data Driven Framework 2022-07-23 15:30:06,529 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:157] -Dio.netty.allocator.numHeapArenas: 8
+Data Driven Framework 2022-07-23 15:30:06,529 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:158] -Dio.netty.allocator.numDirectArenas: 8
+Data Driven Framework 2022-07-23 15:30:06,529 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:160] -Dio.netty.allocator.pageSize: 8192
+Data Driven Framework 2022-07-23 15:30:06,530 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:165] -Dio.netty.allocator.maxOrder: 9
+Data Driven Framework 2022-07-23 15:30:06,530 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:169] -Dio.netty.allocator.chunkSize: 4194304
+Data Driven Framework 2022-07-23 15:30:06,530 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:170] -Dio.netty.allocator.smallCacheSize: 256
+Data Driven Framework 2022-07-23 15:30:06,530 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:171] -Dio.netty.allocator.normalCacheSize: 64
+Data Driven Framework 2022-07-23 15:30:06,531 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:172] -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+Data Driven Framework 2022-07-23 15:30:06,531 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:173] -Dio.netty.allocator.cacheTrimInterval: 8192
+Data Driven Framework 2022-07-23 15:30:06,531 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:174] -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+Data Driven Framework 2022-07-23 15:30:06,531 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:175] -Dio.netty.allocator.useCacheForAllThreads: false
+Data Driven Framework 2022-07-23 15:30:06,532 DEBUG [main] i.n.b.PooledByteBufAllocator [PooledByteBufAllocator.java:176] -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+Data Driven Framework 2022-07-23 15:30:06,560 DEBUG [main] i.n.b.ByteBufUtil [ByteBufUtil.java:87] -Dio.netty.allocator.type: pooled
+Data Driven Framework 2022-07-23 15:30:06,562 DEBUG [main] i.n.b.ByteBufUtil [ByteBufUtil.java:96] -Dio.netty.threadLocalDirectBufferSize: 0
+Data Driven Framework 2022-07-23 15:30:06,562 DEBUG [main] i.n.b.ByteBufUtil [ByteBufUtil.java:99] -Dio.netty.maxThreadLocalCharBufferSize: 16384
+Data Driven Framework 2022-07-23 15:30:08,264 DEBUG [Forwarding newSession on session null to remote] i.n.c.DefaultChannelId [DefaultChannelId.java:79] -Dio.netty.processId: 88372 (auto-detected)
+Data Driven Framework 2022-07-23 15:30:08,269 DEBUG [Forwarding newSession on session null to remote] i.n.u.NetUtil [NetUtil.java:136] -Djava.net.preferIPv4Stack: false
+Data Driven Framework 2022-07-23 15:30:08,270 DEBUG [Forwarding newSession on session null to remote] i.n.u.NetUtil [NetUtil.java:137] -Djava.net.preferIPv6Addresses: false
+Data Driven Framework 2022-07-23 15:30:08,282 DEBUG [Forwarding newSession on session null to remote] i.n.u.NetUtilInitializations [NetUtilInitializations.java:129] Loopback interface: lo0 (lo0, 0:0:0:0:0:0:0:1%lo0)
+Data Driven Framework 2022-07-23 15:30:08,284 DEBUG [Forwarding newSession on session null to remote] i.n.u.NetUtil [NetUtil.java:191] Failed to get SOMAXCONN from sysctl and file /proc/sys/net/core/somaxconn. Default: 128
+Data Driven Framework 2022-07-23 15:30:08,290 DEBUG [Forwarding newSession on session null to remote] i.n.c.DefaultChannelId [DefaultChannelId.java:101] -Dio.netty.machineId: 94:f6:d6:ff:fe:23:bd:e2 (auto-detected)
+Data Driven Framework 2022-07-23 15:30:08,404 DEBUG [AsyncHttpClient-1-2] i.n.b.AbstractByteBuf [AbstractByteBuf.java:63] -Dio.netty.buffer.checkAccessible: true
+Data Driven Framework 2022-07-23 15:30:08,404 DEBUG [AsyncHttpClient-1-2] i.n.b.AbstractByteBuf [AbstractByteBuf.java:64] -Dio.netty.buffer.checkBounds: true
+Data Driven Framework 2022-07-23 15:30:08,405 DEBUG [AsyncHttpClient-1-2] i.n.u.ResourceLeakDetectorFactory [ResourceLeakDetectorFactory.java:196] Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@40214d15
+Data Driven Framework 2022-07-23 15:30:08,427 DEBUG [AsyncHttpClient-1-2] o.a.n.c.NettyConnectListener [NettyConnectListener.java:73] Using new Channel '[id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]' for 'POST' to '/session'
+Data Driven Framework 2022-07-23 15:30:08,456 DEBUG [AsyncHttpClient-1-2] i.n.u.Recycler [Recycler.java:85] -Dio.netty.recycler.maxCapacityPerThread: 4096
+Data Driven Framework 2022-07-23 15:30:08,456 DEBUG [AsyncHttpClient-1-2] i.n.u.Recycler [Recycler.java:86] -Dio.netty.recycler.ratio: 8
+Data Driven Framework 2022-07-23 15:30:08,456 DEBUG [AsyncHttpClient-1-2] i.n.u.Recycler [Recycler.java:87] -Dio.netty.recycler.chunkSize: 32
+Data Driven Framework 2022-07-23 15:30:08,457 DEBUG [AsyncHttpClient-1-2] i.n.u.Recycler [Recycler.java:88] -Dio.netty.recycler.blocking: false
+Data Driven Framework 2022-07-23 15:30:21,795 DEBUG [AsyncHttpClient-1-2] i.n.h.c.c.Brotli [Brotli.java:38] brotli4j not in the classpath; Brotli support will be unavailable.
+Data Driven Framework 2022-07-23 15:30:21,798 DEBUG [AsyncHttpClient-1-2] o.a.n.h.HttpHandler [HttpHandler.java:70] 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session HTTP/1.1
+User-Agent: selenium/4.3.0 (java mac)
+Content-Length: 161
+Content-Type: application/json; charset=utf-8
+host: localhost:49990
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: safaridriver [16613.2.7.1.9]
+Content-Type: application/json; charset=utf-8
+Date: Sat, 23 Jul 2022 19:30:21 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Connection: keep-alive
+content-length: 517
+
+Data Driven Framework 2022-07-23 15:30:21,835 DEBUG [AsyncHttpClient-1-2] o.a.n.c.ChannelManager [ChannelManager.java:270] Adding key: http://localhost:49990 for channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]
+Data Driven Framework 2022-07-23 15:30:22,024 INFO [main] o.p.b.TestBase [TestBase.java:71] Safari browser launched
+Data Driven Framework 2022-07-23 15:30:22,044 DEBUG [Forwarding get on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:593] Using pooled Channel '[id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]' for 'POST' to 'http://localhost:49990/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/url'
+Data Driven Framework 2022-07-23 15:30:22,045 DEBUG [Forwarding get on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:251] Using open Channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990] for POST '/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/url'
+Data Driven Framework 2022-07-23 15:30:23,099 DEBUG [AsyncHttpClient-1-2] o.a.n.h.HttpHandler [HttpHandler.java:70] 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/url HTTP/1.1
+User-Agent: selenium/4.3.0 (java mac)
+Content-Length: 66
+Content-Type: application/json; charset=utf-8
+host: localhost:49990
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: safaridriver [16613.2.7.1.9]
+Content-Type: application/json; charset=utf-8
+Date: Sat, 23 Jul 2022 19:30:23 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Connection: keep-alive
+content-length: 14
+
+Data Driven Framework 2022-07-23 15:30:23,103 DEBUG [AsyncHttpClient-1-2] o.a.n.c.ChannelManager [ChannelManager.java:270] Adding key: http://localhost:49990 for channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]
+Data Driven Framework 2022-07-23 15:30:23,114 INFO [main] o.p.b.TestBase [TestBase.java:76] Navigated to https://opensource-demo.orangehrmlive.com
+Data Driven Framework 2022-07-23 15:30:23,129 DEBUG [Forwarding maximizeCurrentWindow on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:593] Using pooled Channel '[id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]' for 'POST' to 'http://localhost:49990/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/window/maximize'
+Data Driven Framework 2022-07-23 15:30:23,130 DEBUG [Forwarding maximizeCurrentWindow on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:251] Using open Channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990] for POST '/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/window/maximize'
+Data Driven Framework 2022-07-23 15:30:24,651 DEBUG [AsyncHttpClient-1-2] o.a.n.h.HttpHandler [HttpHandler.java:70] 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/window/maximize HTTP/1.1
+User-Agent: selenium/4.3.0 (java mac)
+Content-Length: 3
+Content-Type: application/json; charset=utf-8
+host: localhost:49990
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: safaridriver [16613.2.7.1.9]
+Content-Type: application/json; charset=utf-8
+Date: Sat, 23 Jul 2022 19:30:24 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Connection: keep-alive
+content-length: 50
+
+Data Driven Framework 2022-07-23 15:30:24,653 DEBUG [AsyncHttpClient-1-2] o.a.n.c.ChannelManager [ChannelManager.java:270] Adding key: http://localhost:49990 for channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]
+Data Driven Framework 2022-07-23 15:30:24,661 DEBUG [Forwarding setTimeout on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:593] Using pooled Channel '[id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]' for 'POST' to 'http://localhost:49990/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/timeouts'
+Data Driven Framework 2022-07-23 15:30:24,661 DEBUG [Forwarding setTimeout on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:251] Using open Channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990] for POST '/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/timeouts'
+Data Driven Framework 2022-07-23 15:30:24,695 DEBUG [AsyncHttpClient-1-2] o.a.n.h.HttpHandler [HttpHandler.java:70] 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/timeouts HTTP/1.1
+User-Agent: selenium/4.3.0 (java mac)
+Content-Length: 23
+Content-Type: application/json; charset=utf-8
+host: localhost:49990
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: safaridriver [16613.2.7.1.9]
+Content-Type: application/json; charset=utf-8
+Date: Sat, 23 Jul 2022 19:30:24 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Connection: keep-alive
+content-length: 14
+
+Data Driven Framework 2022-07-23 15:30:24,697 DEBUG [AsyncHttpClient-1-2] o.a.n.c.ChannelManager [ChannelManager.java:270] Adding key: http://localhost:49990 for channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]
+Data Driven Framework 2022-07-23 15:30:24,723 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+Data Driven Framework 2022-07-23 15:30:24,768 DEBUG [Forwarding findElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:593] Using pooled Channel '[id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]' for 'POST' to 'http://localhost:49990/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element'
+Data Driven Framework 2022-07-23 15:30:24,768 DEBUG [Forwarding findElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:251] Using open Channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990] for POST '/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element'
+Data Driven Framework 2022-07-23 15:30:24,800 DEBUG [AsyncHttpClient-1-2] o.a.n.h.HttpHandler [HttpHandler.java:70] 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element HTTP/1.1
+User-Agent: selenium/4.3.0 (java mac)
+Content-Length: 56
+Content-Type: application/json; charset=utf-8
+host: localhost:49990
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: safaridriver [16613.2.7.1.9]
+Content-Type: application/json; charset=utf-8
+Date: Sat, 23 Jul 2022 19:30:24 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Connection: keep-alive
+content-length: 93
+
+Data Driven Framework 2022-07-23 15:30:24,801 DEBUG [AsyncHttpClient-1-2] o.a.n.c.ChannelManager [ChannelManager.java:270] Adding key: http://localhost:49990 for channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]
+Data Driven Framework 2022-07-23 15:30:24,817 DEBUG [Forwarding sendKeysToElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:593] Using pooled Channel '[id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]' for 'POST' to 'http://localhost:49990/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element/node-B163F7F6-3438-45B6-B53E-FCFA2E593D02/value'
+Data Driven Framework 2022-07-23 15:30:24,817 DEBUG [Forwarding sendKeysToElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:251] Using open Channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990] for POST '/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element/node-B163F7F6-3438-45B6-B53E-FCFA2E593D02/value'
+Data Driven Framework 2022-07-23 15:30:24,989 DEBUG [AsyncHttpClient-1-2] o.a.n.h.HttpHandler [HttpHandler.java:70] 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element/node-B163F7F6-3438-45B6-B53E-FCFA2E593D02/value HTTP/1.1
+User-Agent: selenium/4.3.0 (java mac)
+Content-Length: 136
+Content-Type: application/json; charset=utf-8
+host: localhost:49990
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: safaridriver [16613.2.7.1.9]
+Content-Type: application/json; charset=utf-8
+Date: Sat, 23 Jul 2022 19:30:24 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Connection: keep-alive
+content-length: 14
+
+Data Driven Framework 2022-07-23 15:30:24,990 DEBUG [AsyncHttpClient-1-2] o.a.n.c.ChannelManager [ChannelManager.java:270] Adding key: http://localhost:49990 for channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]
+Data Driven Framework 2022-07-23 15:30:24,995 DEBUG [Forwarding findElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:593] Using pooled Channel '[id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]' for 'POST' to 'http://localhost:49990/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element'
+Data Driven Framework 2022-07-23 15:30:24,995 DEBUG [Forwarding findElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:251] Using open Channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990] for POST '/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element'
+Data Driven Framework 2022-07-23 15:30:25,003 DEBUG [AsyncHttpClient-1-2] o.a.n.h.HttpHandler [HttpHandler.java:70] 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element HTTP/1.1
+User-Agent: selenium/4.3.0 (java mac)
+Content-Length: 56
+Content-Type: application/json; charset=utf-8
+host: localhost:49990
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: safaridriver [16613.2.7.1.9]
+Content-Type: application/json; charset=utf-8
+Date: Sat, 23 Jul 2022 19:30:25 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Connection: keep-alive
+content-length: 93
+
+Data Driven Framework 2022-07-23 15:30:25,003 DEBUG [AsyncHttpClient-1-2] o.a.n.c.ChannelManager [ChannelManager.java:270] Adding key: http://localhost:49990 for channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]
+Data Driven Framework 2022-07-23 15:30:25,008 DEBUG [Forwarding sendKeysToElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:593] Using pooled Channel '[id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]' for 'POST' to 'http://localhost:49990/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element/node-6C67C687-643F-4589-AE12-C82DD4CF5E68/value'
+Data Driven Framework 2022-07-23 15:30:25,009 DEBUG [Forwarding sendKeysToElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:251] Using open Channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990] for POST '/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element/node-6C67C687-643F-4589-AE12-C82DD4CF5E68/value'
+Data Driven Framework 2022-07-23 15:30:25,195 DEBUG [AsyncHttpClient-1-2] o.a.n.h.HttpHandler [HttpHandler.java:70] 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element/node-6C67C687-643F-4589-AE12-C82DD4CF5E68/value HTTP/1.1
+User-Agent: selenium/4.3.0 (java mac)
+Content-Length: 166
+Content-Type: application/json; charset=utf-8
+host: localhost:49990
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: safaridriver [16613.2.7.1.9]
+Content-Type: application/json; charset=utf-8
+Date: Sat, 23 Jul 2022 19:30:25 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Connection: keep-alive
+content-length: 14
+
+Data Driven Framework 2022-07-23 15:30:25,197 DEBUG [AsyncHttpClient-1-2] o.a.n.c.ChannelManager [ChannelManager.java:270] Adding key: http://localhost:49990 for channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]
+Data Driven Framework 2022-07-23 15:30:25,202 DEBUG [Forwarding findElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:593] Using pooled Channel '[id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]' for 'POST' to 'http://localhost:49990/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element'
+Data Driven Framework 2022-07-23 15:30:25,203 DEBUG [Forwarding findElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:251] Using open Channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990] for POST '/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element'
+Data Driven Framework 2022-07-23 15:30:25,244 DEBUG [AsyncHttpClient-1-2] o.a.n.h.HttpHandler [HttpHandler.java:70] 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element HTTP/1.1
+User-Agent: selenium/4.3.0 (java mac)
+Content-Length: 53
+Content-Type: application/json; charset=utf-8
+host: localhost:49990
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: safaridriver [16613.2.7.1.9]
+Content-Type: application/json; charset=utf-8
+Date: Sat, 23 Jul 2022 19:30:25 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Connection: keep-alive
+content-length: 93
+
+Data Driven Framework 2022-07-23 15:30:25,246 DEBUG [AsyncHttpClient-1-2] o.a.n.c.ChannelManager [ChannelManager.java:270] Adding key: http://localhost:49990 for channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]
+Data Driven Framework 2022-07-23 15:30:25,249 DEBUG [Forwarding clickElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:593] Using pooled Channel '[id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]' for 'POST' to 'http://localhost:49990/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element/node-22128190-9946-40FA-AFE8-5FD3252761C7/click'
+Data Driven Framework 2022-07-23 15:30:25,249 DEBUG [Forwarding clickElement on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:251] Using open Channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990] for POST '/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element/node-22128190-9946-40FA-AFE8-5FD3252761C7/click'
+Data Driven Framework 2022-07-23 15:30:26,948 DEBUG [AsyncHttpClient-1-2] o.a.n.h.HttpHandler [HttpHandler.java:70] 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/element/node-22128190-9946-40FA-AFE8-5FD3252761C7/click HTTP/1.1
+User-Agent: selenium/4.3.0 (java mac)
+Content-Length: 55
+Content-Type: application/json; charset=utf-8
+host: localhost:49990
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: safaridriver [16613.2.7.1.9]
+Content-Type: application/json; charset=utf-8
+Date: Sat, 23 Jul 2022 19:30:26 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Connection: keep-alive
+content-length: 14
+
+Data Driven Framework 2022-07-23 15:30:26,952 DEBUG [AsyncHttpClient-1-2] o.a.n.c.ChannelManager [ChannelManager.java:270] Adding key: http://localhost:49990 for channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]
+Data Driven Framework 2022-07-23 15:30:26,977 DEBUG [Forwarding close on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:593] Using pooled Channel '[id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]' for 'DELETE' to 'http://localhost:49990/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/window'
+Data Driven Framework 2022-07-23 15:30:26,978 DEBUG [Forwarding close on session E830CBBC-4A1D-42AD-A751-F39F2AF89E77 to remote] o.a.n.r.NettyRequestSender [NettyRequestSender.java:251] Using open Channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990] for DELETE '/session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/window'
+Data Driven Framework 2022-07-23 15:30:27,100 DEBUG [AsyncHttpClient-1-2] o.a.n.h.HttpHandler [HttpHandler.java:70] 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+DELETE /session/E830CBBC-4A1D-42AD-A751-F39F2AF89E77/window HTTP/1.1
+User-Agent: selenium/4.3.0 (java mac)
+Content-Type: application/json; charset=utf-8
+host: localhost:49990
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: safaridriver [16613.2.7.1.9]
+Content-Type: application/json; charset=utf-8
+Date: Sat, 23 Jul 2022 19:30:27 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Connection: keep-alive
+content-length: 12
+
+Data Driven Framework 2022-07-23 15:30:27,102 DEBUG [AsyncHttpClient-1-2] o.a.n.c.ChannelManager [ChannelManager.java:270] Adding key: http://localhost:49990 for channel [id: 0xf8399ffe, L:/127.0.0.1:56818 - R:localhost/127.0.0.1:49990]
+Data Driven Framework 2022-07-23 15:30:27,116 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Time taken by org.testng.internal.ExitCodeListener@7baf6acf: 1 ms
+Data Driven Framework 2022-07-23 17:17:13,145 INFO [main] o.t.i.Utils [Logger.java:112] [Warning] The regular expression "testChromeSetup" didn't match any method in class org.prashant.misc.TestFramework
+Data Driven Framework 2022-07-23 17:17:13,421 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 17 ms.
+Data Driven Framework 2022-07-23 17:17:13,452 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+Data Driven Framework 2022-07-23 17:17:13,456 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,459 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,467 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,469 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,472 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,472 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,474 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,474 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,475 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,476 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,477 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,478 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,486 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,488 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,495 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,501 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,503 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,503 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,549 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,550 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,550 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,551 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,553 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,554 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,562 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,562 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,563 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,565 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:17:13,574 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Running:
+  /Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/testng.xml
+
+Data Driven Framework 2022-07-23 17:17:13,653 INFO [main] o.p.b.TestBase [TestBase.java:42] Config File Loaded!
+Data Driven Framework 2022-07-23 17:17:14,631 WARN [main] i.g.b.w.m.SafariDriverManager [SafariDriverManager.java:51] There is no need to manage the driver for the Safari browser (i.e., safaridriver) since it is built-in in Mac OS
+Data Driven Framework 2022-07-23 17:17:39,243 INFO [main] o.p.b.TestBase [TestBase.java:71] Safari browser launched
+Data Driven Framework 2022-07-23 17:17:40,018 INFO [main] o.p.b.TestBase [TestBase.java:76] Navigated to https://opensource-demo.orangehrmlive.com
+Data Driven Framework 2022-07-23 17:17:40,351 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] DynamicGraphHelper.createDynamicGraph() took 21 ms.
+Data Driven Framework 2022-07-23 17:17:41,201 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Time taken by org.testng.internal.ExitCodeListener@22bb5646: 0 ms
+Data Driven Framework 2022-07-23 17:23:17,987 INFO [main] o.t.i.Utils [Logger.java:112] [Warning] The regular expression "testChromeSetup" didn't match any method in class org.prashant.misc.TestFramework
+Data Driven Framework 2022-07-23 17:23:18,233 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 30 ms.
+Data Driven Framework 2022-07-23 17:23:18,268 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 32 ms.
+Data Driven Framework 2022-07-23 17:23:18,284 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,285 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,287 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,288 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,308 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,309 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,311 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,314 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,315 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,317 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,320 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,325 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,327 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,337 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,352 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,353 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,355 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,355 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,358 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,359 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,362 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,362 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,364 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,365 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,386 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,396 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,400 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,401 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:23:18,409 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Running:
+  /Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/testng.xml
+
+Data Driven Framework 2022-07-23 17:23:19,280 WARN [main] i.g.b.w.m.SafariDriverManager [SafariDriverManager.java:51] There is no need to manage the driver for the Safari browser (i.e., safaridriver) since it is built-in in Mac OS
+Data Driven Framework 2022-07-23 17:23:45,679 INFO [main] o.p.b.TestBase [TestBase.java:71] Safari browser launched
+Data Driven Framework 2022-07-23 17:23:46,841 INFO [main] o.p.b.TestBase [TestBase.java:76] Navigated to https://opensource-demo.orangehrmlive.com
+Data Driven Framework 2022-07-23 17:23:47,440 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] DynamicGraphHelper.createDynamicGraph() took 16 ms.
+Data Driven Framework 2022-07-23 17:23:48,612 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Time taken by org.testng.internal.ExitCodeListener@5a67e962: 0 ms
+Data Driven Framework 2022-07-23 17:25:10,600 INFO [main] o.t.i.Utils [Logger.java:112] [Warning] The regular expression "testChromeSetup" didn't match any method in class org.prashant.misc.TestFramework
+Data Driven Framework 2022-07-23 17:25:10,864 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+Data Driven Framework 2022-07-23 17:25:10,909 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 41 ms.
+Data Driven Framework 2022-07-23 17:25:10,913 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,916 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,918 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,918 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,933 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,938 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,941 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,944 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,945 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,945 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,946 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,947 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,948 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,948 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,953 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,994 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,996 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:10,996 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:11,000 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:11,004 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+Data Driven Framework 2022-07-23 17:25:11,005 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:11,005 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:11,007 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:11,008 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:11,012 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:11,013 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:11,013 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:11,014 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:25:11,026 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Running:
+  /Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/testng.xml
+
+Data Driven Framework 2022-07-23 17:25:11,187 WARN [main] o.p.b.TestBase [TestBase.java:42] Config File Loaded!
+Data Driven Framework 2022-07-23 17:25:12,126 WARN [main] i.g.b.w.m.SafariDriverManager [SafariDriverManager.java:51] There is no need to manage the driver for the Safari browser (i.e., safaridriver) since it is built-in in Mac OS
+Data Driven Framework 2022-07-23 17:25:35,339 INFO [main] o.p.b.TestBase [TestBase.java:71] Safari browser launched
+Data Driven Framework 2022-07-23 17:25:36,079 INFO [main] o.p.b.TestBase [TestBase.java:76] Navigated to https://opensource-demo.orangehrmlive.com
+Data Driven Framework 2022-07-23 17:25:36,206 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+Data Driven Framework 2022-07-23 17:25:36,710 WARN [main] o.p.b.TestBase [LoginTest.java:13] Entered Admin Username
+Data Driven Framework 2022-07-23 17:25:36,859 WARN [main] o.p.b.TestBase [LoginTest.java:15] Entered Admin Password
+Data Driven Framework 2022-07-23 17:25:38,918 WARN [main] o.p.b.TestBase [LoginTest.java:17] Clicked on Login Button
+Data Driven Framework 2022-07-23 17:25:39,076 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Time taken by org.testng.internal.ExitCodeListener@67c277a0: 0 ms
+Data Driven Framework 2022-07-23 17:27:31,204 INFO [main] o.t.i.Utils [Logger.java:112] [Warning] The regular expression "testChromeSetup" didn't match any method in class org.prashant.misc.TestFramework
+Data Driven Framework 2022-07-23 17:27:31,540 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 47 ms.
+Data Driven Framework 2022-07-23 17:27:31,663 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 86 ms.
+Data Driven Framework 2022-07-23 17:27:31,680 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+Data Driven Framework 2022-07-23 17:27:31,686 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+Data Driven Framework 2022-07-23 17:27:31,692 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,693 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,697 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,697 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,699 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,702 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,704 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,707 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,708 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,709 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,714 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,714 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,797 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,799 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,800 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,801 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,814 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,816 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,816 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,817 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,819 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,820 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,822 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,823 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,824 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,825 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:31,841 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Running:
+  /Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/testng.xml
+
+Data Driven Framework 2022-07-23 17:27:31,960 WARN [main] o.p.b.TestBase [TestBase.java:42] Config File Loaded!
+Data Driven Framework 2022-07-23 17:27:33,715 WARN [main] i.g.b.w.m.SafariDriverManager [SafariDriverManager.java:51] There is no need to manage the driver for the Safari browser (i.e., safaridriver) since it is built-in in Mac OS
+Data Driven Framework 2022-07-23 17:27:34,746 INFO [main] o.t.i.Utils [Logger.java:112] [Warning] The regular expression "testChromeSetup" didn't match any method in class org.prashant.misc.TestFramework
+Data Driven Framework 2022-07-23 17:27:35,121 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 55 ms.
+Data Driven Framework 2022-07-23 17:27:35,208 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 60 ms.
+Data Driven Framework 2022-07-23 17:27:35,231 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,235 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+Data Driven Framework 2022-07-23 17:27:35,247 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,248 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,266 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,266 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,268 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,268 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,272 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,273 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,274 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,275 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,277 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,286 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,291 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,292 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,293 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,293 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,296 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,314 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,315 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,315 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,317 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,319 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,321 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,321 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,322 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:27:35,326 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+Data Driven Framework 2022-07-23 17:27:35,439 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Running:
+  /Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/testng.xml
+
+Data Driven Framework 2022-07-23 17:27:35,534 WARN [main] o.p.b.TestBase [TestBase.java:42] Config File Loaded!
+Data Driven Framework 2022-07-23 17:27:36,833 WARN [main] i.g.b.w.m.SafariDriverManager [SafariDriverManager.java:51] There is no need to manage the driver for the Safari browser (i.e., safaridriver) since it is built-in in Mac OS
+Data Driven Framework 2022-07-23 17:27:40,209 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+Data Driven Framework 2022-07-23 17:27:40,261 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Time taken by org.testng.internal.ExitCodeListener@1bc425e7: 0 ms
+Data Driven Framework 2022-07-23 17:27:41,208 INFO [main] o.p.b.TestBase [TestBase.java:71] Safari browser launched
+Data Driven Framework 2022-07-23 17:27:41,962 INFO [main] o.p.b.TestBase [TestBase.java:76] Navigated to https://opensource-demo.orangehrmlive.com
+Data Driven Framework 2022-07-23 17:27:42,311 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+Data Driven Framework 2022-07-23 17:27:42,370 INFO [main] o.p.b.TestBase [LoginTest.java:12] OrangeHRM
+Data Driven Framework 2022-07-23 17:27:42,612 WARN [main] o.p.b.TestBase [LoginTest.java:14] Entered Admin Username
+Data Driven Framework 2022-07-23 17:27:42,762 WARN [main] o.p.b.TestBase [LoginTest.java:16] Entered Admin Password
+Data Driven Framework 2022-07-23 17:27:42,865 WARN [main] o.p.b.TestBase [LoginTest.java:18] Clicked on Login Button
+Data Driven Framework 2022-07-23 17:27:43,034 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Time taken by org.testng.internal.ExitCodeListener@4647881c: 0 ms
+Data Driven Framework 2022-07-23 17:28:22,422 INFO [main] o.t.i.Utils [Logger.java:112] [Warning] The regular expression "testChromeSetup" didn't match any method in class org.prashant.misc.TestFramework
+Data Driven Framework 2022-07-23 17:28:22,682 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 17 ms.
+Data Driven Framework 2022-07-23 17:28:22,700 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+Data Driven Framework 2022-07-23 17:28:22,704 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,705 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,707 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,708 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,709 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,710 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,715 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,718 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,720 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,721 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,722 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,722 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,724 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,725 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,730 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,730 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,731 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,732 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,734 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,735 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,735 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,736 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,738 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,744 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+Data Driven Framework 2022-07-23 17:28:22,751 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,752 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,753 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,754 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Data Driven Framework 2022-07-23 17:28:22,763 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Running:
+  /Users/prashantvaghela/Documents/Documents - Prashant’s MacBook Air/JavaPractice/AutomationFramework/testng.xml
+
+Data Driven Framework 2022-07-23 17:28:22,818 WARN [main] o.p.b.TestBase [TestBase.java:42] Config File Loaded!
+Data Driven Framework 2022-07-23 17:28:23,567 WARN [main] i.g.b.w.m.SafariDriverManager [SafariDriverManager.java:51] There is no need to manage the driver for the Safari browser (i.e., safaridriver) since it is built-in in Mac OS
+Data Driven Framework 2022-07-23 17:28:30,163 INFO [main] o.p.b.TestBase [TestBase.java:71] Safari browser launched
+Data Driven Framework 2022-07-23 17:28:31,002 INFO [main] o.p.b.TestBase [TestBase.java:76] Navigated to https://opensource-demo.orangehrmlive.com
+Data Driven Framework 2022-07-23 17:28:31,814 INFO [main] o.t.i.Utils [Logger.java:112] [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+Data Driven Framework 2022-07-23 17:28:32,301 INFO [main] o.p.b.TestBase [LoginTest.java:12] OrangeHRM
+Data Driven Framework 2022-07-23 17:28:32,539 WARN [main] o.p.b.TestBase [LoginTest.java:14] Entered Admin Username
+Data Driven Framework 2022-07-23 17:28:32,688 WARN [main] o.p.b.TestBase [LoginTest.java:16] Entered Admin Password
+Data Driven Framework 2022-07-23 17:28:36,103 WARN [main] o.p.b.TestBase [LoginTest.java:18] Clicked on Login Button
+Data Driven Framework 2022-07-23 17:28:36,246 INFO [main] o.t.i.Utils [Logger.java:112] [TestNG] Time taken by org.testng.internal.ExitCodeListener@2d5f7182: 0 ms
